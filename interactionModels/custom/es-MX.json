@@ -1,0 +1,88 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "DescriptionIntent",
+          "samples": [
+            "Cuéntame sobre la ciudad",
+            "Describe la ciudad"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TouristPlacesIntent",
+          "samples": [
+            "Qué puedo visitar",
+            "Lugares turísticos",
+            "cuales son los lugares turisticos"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TypicalFoodIntent",
+          "samples": [
+            "Qué comida es famosa aquí",
+            "Comida típica",
+            "Cuál es la comida típica"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TypicalClothingIntent",
+          "samples": [
+            "Cómo es el traje tradicional",
+            "Traje típico",
+            "Cuál es el traje típico"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "NotablePeopleIntent",
+          "samples": [
+            "Personajes sobresalientes",
+            "Quiénes son los personajes sobresalientes"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "Música típica",
+            "Qué música es típica"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "actividad op"
+    }
+  }
+}
